@@ -10,7 +10,7 @@
 (in-package :nes-test-1)
 
 (write-ines
- "/tmp/nes-test-1.nes"
+ "/tmp/nes-test-1ia.nes"
  (let ((*context* (make-instance 'basic-context :address #x8000))
        (color (zp 0)))
 
