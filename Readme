@@ -1,0 +1,5 @@
+see 
+https://ahefner.livejournal.com/20528.html
+
+to use
+rlwrap sbcl --load "to-run.lisp"
